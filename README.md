@@ -115,6 +115,7 @@
 - :wrench: [Netlify](https://www.netlify.com/) Write frontend code. Push it. We handle the rest. All the features developers need right out of the box: Global CDN, Continuous Deployment, one click HTTPS and more…
 
 ## Applications
+- :wrench: [VSCode](https://code.visualstudio.com/) Code editing redefined. Free. Open source. Runs everywhere.
 - :wrench: [Sketch](https://www.sketchapp.com/) A digital design toolkit built to help you create your best work — from early ideas, through to final assets.
 - :wrench: [Overflow](https://overflow.io/) Turn your designs into playable user flow diagrams that tell a story.
 - :wrench: [tota11y](https://github.com/Khan/tota11y) - an accessibility (a11y) visualization toolkit 
