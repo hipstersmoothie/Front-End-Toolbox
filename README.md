@@ -60,6 +60,7 @@
 - :package: [fuzzysearch](https://github.com/bevacqua/fuzzysearch) Tiny and blazing-fast fuzzy search in JavaScript. This program doesn't implement levenshtein distance, but rather a simplified version where there's no approximation. 
 - :package: [Frappe Charts](https://github.com/frappe/charts) GitHub-inspired modern, intuitive and responsive charts with zero dependencies.
 - :package: [Two.js](https://two.js.org/) A two-dimensional drawing api geared towards modern web browsers.
+- :package: [Konva.js](https://konvajs.github.io/) HTML5 2d canvas library for desktop and mobile applications.
 - :package: [D3.js](https://d3js.org/) A JavaScript library for manipulating documents based on data.
 - :package: [Electron](https://electronjs.org/) Build cross platform desktop apps with JavaScript, HTML, and CSS
 - :package: [Dashboard UIKit](https://dashboarduikit.com/) A modern, responsive and well-organized dashboard UI kit for digital product designers.
