@@ -17,17 +17,23 @@
 - [Applications](#applications)
 
 ## HTML
+- :memo: [getHead](https://gethead.info/) A guide to <head> elements
+- :memo: [HTML5 Form Validation](https://pageclip.co/blog/2018-02-20-you-should-use-html5-form-validation.html) Method of setting required fields and field types without requiring JavaScript. This includes preventing forms from being submitted when appropriate.
 
 ## CSS
 - :memo: [Container Queries](https://philipwalton.github.io/responsive-components/) A modern approach to styling elements based on the size of their container.
+- :memo: [Flexbox Tutorial](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) A Visual Guide to CSS3 Flexbox Properties
+- :package: [Pure.css](https://purecss.io/) A set of small, responsive CSS modules that you can use in every web project.
 - :package: [CSS Modules](https://github.com/css-modules/css-modules) A CSS Module is a CSS file in which all class names and animation names are scoped locally by default. 
 - :package: [Stylelint](https://github.com/stylelint/stylelint) A mighty, modern CSS linter.
+- :package: [PostCSS](https://github.com/postcss/postcss) A tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
 
 ## Icons / Photos
 - :wrench: [Reshot](https://www.reshot.com/) Handpicked, non-stocky images. Yours to use as you wish.
 
 ## Javascript
 ### UI
+- :package: [Material UI - React Components](https://github.com/mui-org/material-ui) React components that implement Google's Material Design.
 - :package: [basicScroll](https://github.com/electerious/basicScroll) Standalone parallax scrolling for mobile and desktop with CSS variables.
 - :package: [React Morph](https://github.com/brunnolou/react-morph) Morphing UI transitions made simple.
 - :package: [Tippy.js](https://github.com/atomiks/tippyjs) Highly customizable vanilla JS tooltip/popover library.
@@ -35,6 +41,11 @@
 - :package: [Fuse.js](http://fusejs.io/) Lightweight fuzzy-search library. Zero dependencies.
 - :package: [fuzzysearch](https://github.com/bevacqua/fuzzysearch) Tiny and blazing-fast fuzzy search in JavaScript. This program doesn't implement levenshtein distance, but rather a simplified version where there's no approximation. 
 - :package: [Frappe Charts](https://github.com/frappe/charts) GitHub-inspired modern, intuitive and responsive charts with zero dependencies.
+
+### Testing 
+- :package: [Jest](https://github.com/facebook/jest) Delightful JavaScript Testing for React.
+- :package: [Enzyme](https://github.com/airbnb/enzyme) Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
+- :package: [Ava](https://github.com/avajs/ava) Futuristic JavaScript test runner. Ava runs tests concurrently, which is especially beneficial for IO heavy tests
 
 ### Static Site
 - :package: [Gatsby.js](https://www.gatsbyjs.org/) Blazing-fast static site generator for React
@@ -59,6 +70,7 @@
 
 ## Hosting
 - :wrench: [Zeit Now](https://zeit.co/now) Instant Global Deployments - Deploy to the most powerful serverless platform in the world with just one command.
+- :wrench: [Netlify](https://www.netlify.com/) Write frontend code. Push it. We handle the rest. All the features developers need right out of the box: Global CDN, Continuous Deployment, one click HTTPS and more…
 
 ## Applications
 - :wrench: [tota11y](https://github.com/Khan/tota11y) - an accessibility (a11y) visualization toolkit 
