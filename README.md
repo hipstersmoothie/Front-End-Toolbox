@@ -20,6 +20,8 @@
 
 ## CSS
 - :memo: [Container Queries](https://philipwalton.github.io/responsive-components/) A modern approach to styling elements based on the size of their container.
+- :package: [CSS Modules](https://github.com/css-modules/css-modules) A CSS Module is a CSS file in which all class names and animation names are scoped locally by default. 
+- :package: [Stylelint](https://github.com/stylelint/stylelint) A mighty, modern CSS linter.
 
 ## Icons / Photos
 - :wrench: [Reshot](https://www.reshot.com/) Handpicked, non-stocky images. Yours to use as you wish.
@@ -32,14 +34,27 @@
 - :package: [SweetAlert2](https://sweetalert2.github.io/) A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - :package: [Fuse.js](http://fusejs.io/) Lightweight fuzzy-search library. Zero dependencies.
 - :package: [fuzzysearch](https://github.com/bevacqua/fuzzysearch) Tiny and blazing-fast fuzzy search in JavaScript. This program doesn't implement levenshtein distance, but rather a simplified version where there's no approximation. 
+- :package: [Frappe Charts](https://github.com/frappe/charts) GitHub-inspired modern, intuitive and responsive charts with zero dependencies.
 
 ### Static Site
 - :package: [Gatsby.js](https://www.gatsbyjs.org/) Blazing-fast static site generator for React
 - :package: [React Static](https://nozzle-react-static.netlify.com/) Tiny and blazing-fast fuzzy search in JavaScript. This program doesn't implement levenshtein distance, but rather a simplified version where there's no approximation. 
 
-## UX-Design
+### Docs
+- :package: [Gitbook](https://github.com/GitbookIO/gitbook) Modern documentation format and toolchain using Git and Markdown.
 
-### Inspiration
+### Build
+- :package: [Webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand.
+- :package: [React](https://github.com/facebook/react/) Blazing-fast static site generator for React
+- :package: [Create React App](https://github.com/facebook/create-react-app) Create React apps with no build configuration.
+- :package: [React](https://github.com/facebook/react/) Blazing-fast static site generator for React
+- :package: [ESLint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript. 
+
+## Inspiration
+### Devlopment
+- :memo: [Front End Case Studies](https://github.com/andrew--r/frontend-case-studies) Morphing UI transitions made simple. A curated list of technical talks and articles about real-world enterprise frontend development
+
+### UX-Design
 - :memo: [Sidebar Transitions](https://tympanus.net/Development/SidebarTransitions/) Some inspiration for transition effects for off-canvas navigations.
 
 ## Hosting
