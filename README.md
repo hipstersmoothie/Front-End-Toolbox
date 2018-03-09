@@ -89,7 +89,7 @@
 
 ### Build
 - :package: [Webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand.
-- :package: [Slate](https://github.com/lord/slate) Slate helps you create beautiful, intelligent, responsive API documentation.
+- :package: [ESLint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - :package: [Babel](https://babeljs.io/) Use next generation JavaScript, today.
 
 ## Inspiration
