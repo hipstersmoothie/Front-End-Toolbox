@@ -121,6 +121,7 @@
 - :wrench: [Codeschool](https://www.codeschool.com/) The interactive learning destination for aspiring and experienced developers
 - :wrench: [FrontendMasters](https://frontendmasters.com/) Advance Your Skills with In-Depth, Modern Front-End Engineering Courses
 - :wrench: [Udacity](https://www.udacity.com/) An innovative online education provider. We offer cutting-edge courses built in partnership with leading companies like Google, AT&T, and Facebook on everything from mastering web design to tech entrepreneurship. 
+- :wrench: [CodeWarrior](https://codecombat.com/) The most engaging game for learning programming.
 
 ### Challenges
 - :wrench: [Code Academy](http://hackercs.com/streams/Computer-Science-Challenges/) Learn to code interactively, for free.
