@@ -30,6 +30,7 @@
 
 ## Icons / Photos
 - :wrench: [Reshot](https://www.reshot.com/) Handpicked, non-stocky images. Yours to use as you wish.
+- :package: [Material UI Icons](https://www.npmjs.com/package/material-ui-icons) This package provides the Google Material icons packaged as a set of React components.
 
 ## Javascript
 ### UI
@@ -65,8 +66,14 @@
 ### Devlopment
 - :memo: [Front End Case Studies](https://github.com/andrew--r/frontend-case-studies) Morphing UI transitions made simple. A curated list of technical talks and articles about real-world enterprise frontend development
 
+### Design
+- :memo: [Design Tips](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) 7 Practical Tips for Cheating at Design
+- :wrench: [Dribbble](https://dribbble.com/) Dribbble is where designers get inspired and hired.
+
 ### UX-Design
 - :memo: [Sidebar Transitions](https://tympanus.net/Development/SidebarTransitions/) Some inspiration for transition effects for off-canvas navigations.
+- :memo: [UX Motion](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc) Creating Usability with Motion: The UX in Motion Manifesto
+- :memo: [Micro Interactions](https://www.invisionapp.com/blog/use-microinteractions-improve-ux-design/) How microinteractions imporve your UX Design
 
 ## Hosting
 - :wrench: [Zeit Now](https://zeit.co/now) Instant Global Deployments - Deploy to the most powerful serverless platform in the world with just one command.
