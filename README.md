@@ -24,6 +24,8 @@
 ## CSS
 - :memo: [Container Queries](https://philipwalton.github.io/responsive-components/) A modern approach to styling elements based on the size of their container.
 - :memo: [Flexbox Tutorial](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) A Visual Guide to CSS3 Flexbox Properties
+- :memo: [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) A curated collection of useful CSS snippets you can understand in 30 seconds or less.
+- :package: [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/index.html) The CSS3 Animation Cheat Sheet is a set of preset, plug-and-play animations for your web projects. All you need to do is add the stylesheet to your website and apply the premade CSS classes to the elements you want animated.
 - :package: [Pure.css](https://purecss.io/) A set of small, responsive CSS modules that you can use in every web project.
 - :package: [CSS Modules](https://github.com/css-modules/css-modules) A CSS Module is a CSS file in which all class names and animation names are scoped locally by default. 
 - :package: [Stylelint](https://github.com/stylelint/stylelint) A mighty, modern CSS linter.
@@ -45,6 +47,10 @@
 - :package: [Fuse.js](http://fusejs.io/) Lightweight fuzzy-search library. Zero dependencies.
 - :package: [fuzzysearch](https://github.com/bevacqua/fuzzysearch) Tiny and blazing-fast fuzzy search in JavaScript. This program doesn't implement levenshtein distance, but rather a simplified version where there's no approximation. 
 - :package: [Frappe Charts](https://github.com/frappe/charts) GitHub-inspired modern, intuitive and responsive charts with zero dependencies.
+- :package: [Two.js](https://two.js.org/) A two-dimensional drawing api geared towards modern web browsers.
+- :package: [D3.js](https://d3js.org/) A JavaScript library for manipulating documents based on data.
+- :package: [Electron](https://electronjs.org/) Build cross platform desktop apps with JavaScript, HTML, and CSS
+- :package: [Dashboard UIKit](https://dashboarduikit.com/) A modern, responsive and well-organized dashboard UI kit for digital product designers.
 
 ### Testing 
 - :package: [Jest](https://github.com/facebook/jest) Delightful JavaScript Testing for React.
@@ -74,6 +80,8 @@
 - :wrench: [Dribbble](https://dribbble.com/) Dribbble is where designers get inspired and hired.
 
 ### UX-Design
+- :memo: [Arrow Navigation Styles](https://tympanus.net/Development/ArrowNavigationStyles/) Ideas for arrow navigation effects and styles
+- :memo: [Gooey Effects](https://tympanus.net/Development/CreativeGooeyEffects/) A collection of gooey demos.
 - :memo: [Sidebar Transitions](https://tympanus.net/Development/SidebarTransitions/) Some inspiration for transition effects for off-canvas navigations.
 - :memo: [UX Motion](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc) Creating Usability with Motion: The UX in Motion Manifesto
 - :memo: [Micro Interactions](https://www.invisionapp.com/blog/use-microinteractions-improve-ux-design/) How microinteractions imporve your UX Design
@@ -97,3 +105,5 @@
 
 ### Challenges
 - :wrench: [Code Academy](http://hackercs.com/streams/Computer-Science-Challenges/) Learn to code interactively, for free.
+- :wrench: [Project Euler](https://projecteuler.net/) Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. 
+- :wrench: [HackerRank](https://www.hackerrank.com/) Practice coding. Compete. Find jobs.
