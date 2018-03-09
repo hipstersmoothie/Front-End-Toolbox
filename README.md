@@ -63,6 +63,8 @@
 - :package: [D3.js](https://d3js.org/) A JavaScript library for manipulating documents based on data.
 - :package: [Electron](https://electronjs.org/) Build cross platform desktop apps with JavaScript, HTML, and CSS
 - :package: [Dashboard UIKit](https://dashboarduikit.com/) A modern, responsive and well-organized dashboard UI kit for digital product designers.
+- :package: [FilePond](https://github.com/pqina/filepond) A (21 KB gzipped) JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
+- :package: [Multi.js](https://github.com/Fabianlindfors/multi.js) A user-friendly replacement for select boxes with the multiple attribute. It has no dependencies, is mobile-friendly, and provides search functionality. multi.js is also easy to style with CSS and optionally supports jQuery.
 
 ### App
 - :package: [Redux](https://github.com/reactjs/redux) Predictable state container for JavaScript apps.
@@ -74,6 +76,7 @@
 - :package: [Jest](https://github.com/facebook/jest) Delightful JavaScript Testing for React.
 - :package: [Enzyme](https://github.com/airbnb/enzyme) Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 - :package: [Ava](https://github.com/avajs/ava) Futuristic JavaScript test runner. Ava runs tests concurrently, which is especially beneficial for IO heavy tests
+- :package; [Airtap](https://github.com/airtap/airtap) An easy way to test your JavaScript in browsers, using a TAP-producing harness like tap or tape. Start testing your code locally in seconds and seamlessly move to cloud based browsers powered by Sauce Labs for better coverage.
 
 ### Static Site
 - :package: [Gatsby.js](https://www.gatsbyjs.org/) Blazing-fast static site generator for React
@@ -81,10 +84,11 @@
 
 ### Docs
 - :package: [Gitbook](https://github.com/GitbookIO/gitbook) Modern documentation format and toolchain using Git and Markdown.
+- :package: [Gitbook](https://github.com/GitbookIO/gitbook) Modern documentation format and toolchain using Git and Markdown.
 
 ### Build
 - :package: [Webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand.
-- :package: [ESLint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript. 
+- :package: [Slate](https://github.com/lord/slate) Slate helps you create beautiful, intelligent, responsive API documentation.
 
 ## Inspiration
 ### Devlopment
