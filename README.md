@@ -61,5 +61,5 @@
 - :wrench: [Zeit Now](https://zeit.co/now) Instant Global Deployments - Deploy to the most powerful serverless platform in the world with just one command.
 
 ## Applications
-- :wrench: (tota11y)[https://github.com/Khan/tota11y] - an accessibility (a11y) visualization toolkit 
-- :wrench: (The Front-End Checklist)[https://frontendchecklist.io/] - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+- :wrench: [tota11y](https://github.com/Khan/tota11y) - an accessibility (a11y) visualization toolkit 
+- :wrench: [The Front-End Checklist](https://frontendchecklist.io/) - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
