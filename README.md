@@ -36,8 +36,8 @@
 - :wrench: [Adobe Color CC](https://color.adobe.com/create/color-wheel/) Create color schemes with the color wheel or browse thousands of color combinations from the Kuler community.
 - :wrench: [Paletton](http://www.paletton.com/) Simple color palette generator.
 - :wrench: [Culrs](http://culrs.com/) A simple, smart approach to choose color palettes based on emotion.
-- :memo: [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) Curated color palette inspiration.
-- :memo: [Color Farm](http://color.farm/) Curated color palette inspiration with examples.
+- :wrench: [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) Curated color palette inspiration.
+- :wrench: [Color Farm](http://color.farm/) Curated color palette inspiration with examples.
 
 
 ## Icons / Photos
