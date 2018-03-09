@@ -15,6 +15,7 @@
 - [Javascript](#Javascript)
 - [UX-Design](#ux-design)
 - [Applications](#applications)
+- [Training](#training)
 
 ## HTML
 - :memo: [getHead](https://gethead.info/) A guide to <head> elements
@@ -33,6 +34,8 @@
 - :package: [Material UI Icons](https://www.npmjs.com/package/material-ui-icons) This package provides the Google Material icons packaged as a set of React components.
 
 ## Javascript
+- :memo: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) This is a series of books diving deep into the core mechanisms of the JavaScript language.
+
 ### UI
 - :package: [Material UI - React Components](https://github.com/mui-org/material-ui) React components that implement Google's Material Design.
 - :package: [basicScroll](https://github.com/electerious/basicScroll) Standalone parallax scrolling for mobile and desktop with CSS variables.
@@ -81,4 +84,16 @@
 
 ## Applications
 - :wrench: [tota11y](https://github.com/Khan/tota11y) - an accessibility (a11y) visualization toolkit 
-- :wrench: [The Front-End Checklist](https://frontendchecklist.io/) - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+- :wrench: [FreeCodeCamp](https://www.freecodecamp.org/) - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+
+## Training
+### Courses
+- :wrench: [FrontendMasters](https://frontendmasters.com/) Learn to code for free.
+- :wrench: [Code Academy](https://www.codecademy.com/) Learn to code interactively, for free.
+- :wrench: [Treehouse](https://teamtreehouse.com/) Learn Web Design, Coding & Much More
+- :wrench: [Codeschool](https://www.codeschool.com/) The interactive learning destination for aspiring and experienced developers
+- :wrench: [FrontendMasters](https://frontendmasters.com/) Advance Your Skills with In-Depth, Modern Front-End Engineering Courses
+- :wrench: [Udacity](https://www.udacity.com/) An innovative online education provider. We offer cutting-edge courses built in partnership with leading companies like Google, AT&T, and Facebook on everything from mastering web design to tech entrepreneurship. 
+
+### Challenges
+- :wrench: [Code Academy](http://hackercs.com/streams/Computer-Science-Challenges/) Learn to code interactively, for free.
