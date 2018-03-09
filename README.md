@@ -4,8 +4,8 @@
  
 ### Legend
 
-- :memo: - Article / Tutorial
-- :wrench: - Web Applications / Tools
+- :memo: - Article
+- :wrench: - Tools
 - :package: - Library
 
 ## Contents
