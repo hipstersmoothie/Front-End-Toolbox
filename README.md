@@ -31,8 +31,20 @@
 - :package: [Stylelint](https://github.com/stylelint/stylelint) A mighty, modern CSS linter.
 - :package: [PostCSS](https://github.com/postcss/postcss) A tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
 
+### Color
+- :wrench: [CSS Gradient Generator](https://cssgradient.io/) A happy little website and web tool that allows you to get creative with gradients. 
+- :wrench: [Adobe Color CC](https://color.adobe.com/create/color-wheel/) Create color schemes with the color wheel or browse thousands of color combinations from the Kuler community.
+- :wrench: [Paletton](http://www.paletton.com/) Simple color palette generator.
+- :wrench: [Culrs](http://culrs.com/) A simple, smart approach to choose color palettes based on emotion.
+- :memo: [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) Curated color palette inspiration.
+- :memo: [Color Farm](http://color.farm/) Curated color palette inspiration with examples.
+
+
 ## Icons / Photos
 - :wrench: [Reshot](https://www.reshot.com/) Handpicked, non-stocky images. Yours to use as you wish.
+- :wrench: [Morgue File](https://morguefile.com/) Free images for creatives, by creatives.
+- :wrench: [Fancy Crave](http://fancycrave.com/free-american-flag-photos/) Stunning, emotionally-driven photos fit for any project. (Free/Premium)
+- :wrench: [Brandmark](https://app.brandmark.io/v2/) The deep learning logo maker.
 - :package: [Material UI Icons](https://www.npmjs.com/package/material-ui-icons) This package provides the Google Material icons packaged as a set of React components.
 
 ## Javascript
@@ -80,7 +92,8 @@
 
 ### Design
 - :memo: [Design Tips](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) 7 Practical Tips for Cheating at Design
-- :wrench: [Dribbble](https://dribbble.com/) Dribbble is where designers get inspired and hired.
+- :memo: [HTTPster](https://httpster.net/) An inspiration resource showcasing totally rocking websites made by people from all over the world.
+- :memo: [Dribbble](https://dribbble.com/) Dribbble is where designers get inspired and hired.
 
 ### UX-Design
 - :memo: [Arrow Navigation Styles](https://tympanus.net/Development/ArrowNavigationStyles/) Ideas for arrow navigation effects and styles
@@ -88,12 +101,15 @@
 - :memo: [Sidebar Transitions](https://tympanus.net/Development/SidebarTransitions/) Some inspiration for transition effects for off-canvas navigations.
 - :memo: [UX Motion](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc) Creating Usability with Motion: The UX in Motion Manifesto
 - :memo: [Micro Interactions](https://www.invisionapp.com/blog/use-microinteractions-improve-ux-design/) How microinteractions imporve your UX Design
+- :memo: [Really Good UX](https://www.reallygoodux.io/) A Look Inside Your Favorite Products.
 
 ## Hosting
 - :wrench: [Zeit Now](https://zeit.co/now) Instant Global Deployments - Deploy to the most powerful serverless platform in the world with just one command.
 - :wrench: [Netlify](https://www.netlify.com/) Write frontend code. Push it. We handle the rest. All the features developers need right out of the box: Global CDN, Continuous Deployment, one click HTTPS and more…
 
 ## Applications
+- :wrench: [Sketch](https://www.sketchapp.com/) A digital design toolkit built to help you create your best work — from early ideas, through to final assets.
+- :wrench: [Overflow](https://overflow.io/) Turn your designs into playable user flow diagrams that tell a story.
 - :wrench: [tota11y](https://github.com/Khan/tota11y) - an accessibility (a11y) visualization toolkit 
 - :wrench: [FreeCodeCamp](https://www.freecodecamp.org/) - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 
