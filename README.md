@@ -3,6 +3,7 @@
  A collection of useful frontend tools, libraries, and tutorials.
  
 ### Legend
+
 :memo: - Article / Tutorial
 :wrench: - Web Applications / Tools
 :package: - Library
