@@ -1,6 +1,6 @@
 # Front-End-Toolbox
 
- A collection of useful frontend tools, libraries, and tutorials.
+ A collection of useful frontend tools, libraries, and articles.
  
 ### Legend
 
