@@ -52,6 +52,12 @@
 - :package: [Electron](https://electronjs.org/) Build cross platform desktop apps with JavaScript, HTML, and CSS
 - :package: [Dashboard UIKit](https://dashboarduikit.com/) A modern, responsive and well-organized dashboard UI kit for digital product designers.
 
+### App
+- :package: [Redux](https://github.com/reactjs/redux) Predictable state container for JavaScript apps.
+- :package: [React](https://github.com/facebook/react/) A JavaScript library for building user interfaces
+- :package: [Create React App](https://github.com/facebook/create-react-app) Create React apps with no build configuration.
+- :package: [Vue](https://vuejs.org/) The ProgressiveJavaScript Framework
+
 ### Testing 
 - :package: [Jest](https://github.com/facebook/jest) Delightful JavaScript Testing for React.
 - :package: [Enzyme](https://github.com/airbnb/enzyme) Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
@@ -66,9 +72,6 @@
 
 ### Build
 - :package: [Webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand.
-- :package: [React](https://github.com/facebook/react/) Blazing-fast static site generator for React
-- :package: [Create React App](https://github.com/facebook/create-react-app) Create React apps with no build configuration.
-- :package: [React](https://github.com/facebook/react/) Blazing-fast static site generator for React
 - :package: [ESLint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript. 
 
 ## Inspiration
