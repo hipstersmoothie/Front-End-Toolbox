@@ -52,9 +52,8 @@
 - :memo: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) This is a series of books diving deep into the core mechanisms of the JavaScript language.
 
 ### UI
-- :package: [Material UI - React Components](https://github.com/mui-org/material-ui) React components that implement Google's Material Design.
+#### Vanilla
 - :package: [basicScroll](https://github.com/electerious/basicScroll) Standalone parallax scrolling for mobile and desktop with CSS variables.
-- :package: [React Morph](https://github.com/brunnolou/react-morph) Morphing UI transitions made simple.
 - :package: [Tippy.js](https://github.com/atomiks/tippyjs) Highly customizable vanilla JS tooltip/popover library.
 - :package: [SweetAlert2](https://sweetalert2.github.io/) A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - :package: [Fuse.js](http://fusejs.io/) Lightweight fuzzy-search library. Zero dependencies.
@@ -68,7 +67,11 @@
 - :package: [FilePond](https://github.com/pqina/filepond) A (21 KB gzipped) JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
 - :package: [Multi.js](https://github.com/Fabianlindfors/multi.js) A user-friendly replacement for select boxes with the multiple attribute. It has no dependencies, is mobile-friendly, and provides search functionality. multi.js is also easy to style with CSS and optionally supports jQuery.
 - :package: [Driver.js](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page. Only ~4kb, no external dependencies, supports all major browsers and highly customizable. Free version of Intro.js
+
+#### React
 - :package: [React Virtualized](https://github.com/bvaughn/react-virtualized) React components for efficiently rendering large lists and tabular data.
+- :package: [Material UI - React Components](https://github.com/mui-org/material-ui) React components that implement Google's Material Design.
+- :package: [React Morph](https://github.com/brunnolou/react-morph) Morphing UI transitions made simple.
 
 ### App
 - :package: [Redux](https://github.com/reactjs/redux) Predictable state container for JavaScript apps.
