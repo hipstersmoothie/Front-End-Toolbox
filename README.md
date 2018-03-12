@@ -67,6 +67,7 @@
 - :package: [Dashboard UIKit](https://dashboarduikit.com/) A modern, responsive and well-organized dashboard UI kit for digital product designers.
 - :package: [FilePond](https://github.com/pqina/filepond) A (21 KB gzipped) JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
 - :package: [Multi.js](https://github.com/Fabianlindfors/multi.js) A user-friendly replacement for select boxes with the multiple attribute. It has no dependencies, is mobile-friendly, and provides search functionality. multi.js is also easy to style with CSS and optionally supports jQuery.
+- :package: [Driver.js](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page. Only ~4kb, no external dependencies, supports all major browsers and highly customizable. Free version of Intro.js
 
 ### App
 - :package: [Redux](https://github.com/reactjs/redux) Predictable state container for JavaScript apps.
