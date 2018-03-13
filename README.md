@@ -125,9 +125,13 @@
 ## Applications
 - :wrench: [VSCode](https://code.visualstudio.com/) Code editing redefined. Free. Open source. Runs everywhere.
 - :wrench: [Sketch](https://www.sketchapp.com/) A digital design toolkit built to help you create your best work — from early ideas, through to final assets.
+- :wrench: [Supernova Studio](https://supernova.studio/) Convert designs into
+native mobile apps
 - :wrench: [Overflow](https://overflow.io/) Turn your designs into playable user flow diagrams that tell a story.
 - :wrench: [tota11y](https://github.com/Khan/tota11y) - an accessibility (a11y) visualization toolkit 
 - :wrench: [FreeCodeCamp](https://www.freecodecamp.org/) - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+- :wrench: [FrontendChecklist](https://frontendchecklist.io/) Check a bunch of different things to see how well your website performs
+- :wrench: [Passmarked](https://passmarked.com/) Passmarked offers a simple, all-in-one test to check if your website meets current global standards and is free of criticals errors.
 
 ## Training
 ### Courses
