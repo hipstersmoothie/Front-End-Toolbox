@@ -58,7 +58,7 @@
 ### UI
 #### Vanilla
 - :package: [basicScroll](https://github.com/electerious/basicScroll) Standalone parallax scrolling for mobile and desktop with CSS variables.
-- :package: [Tippy.js](https://github.com/atomiks/tippyjs) Highly customizable vanilla JS tooltip/popover library.
+- :package: [:gem:](https://github.com/tvkhoa/react-tippy) [Tippy.js](https://github.com/atomiks/tippyjs) Highly customizable vanilla JS tooltip/popover library.
 - :package: [SweetAlert2](https://sweetalert2.github.io/) A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - :package: [Fuse.js](http://fusejs.io/) Lightweight fuzzy-search library. Zero dependencies.
 - :package: [fuzzysearch](https://github.com/bevacqua/fuzzysearch) Tiny and blazing-fast fuzzy search in JavaScript. This program doesn't implement levenshtein distance, but rather a simplified version where there's no approximation. 
@@ -74,10 +74,10 @@
 - :package: [Pell](https://github.com/jaredreich/pell) The simplest and smallest (~1kB) WYSIWYG text editor for web, with no dependencies 
 
 #### React
-- :package: [React Virtualized](https://github.com/bvaughn/react-virtualized) React components for efficiently rendering large lists and tabular data.
-- :package: [Material UI - React Components](https://github.com/mui-org/material-ui) React components that implement Google's Material Design.
-- :package: [React Morph](https://github.com/brunnolou/react-morph) Morphing UI transitions made simple.
-- :package: [Emoji Mart](https://github.com/missive/emoji-mart) React component to pick an emoji.
+- :gem: [React Virtualized](https://github.com/bvaughn/react-virtualized) React components for efficiently rendering large lists and tabular data.
+- :gem: [Material UI - React Components](https://github.com/mui-org/material-ui) React components that implement Google's Material Design.
+- :gem: [React Morph](https://github.com/brunnolou/react-morph) Morphing UI transitions made simple.
+- :gem: [Emoji Mart](https://github.com/missive/emoji-mart) React component to pick an emoji.
 
 
 ### App
