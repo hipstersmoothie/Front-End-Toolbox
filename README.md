@@ -72,6 +72,7 @@
 - :package: [:gem:](http://www.reactd3.org/) [D3.js](https://d3js.org/) A JavaScript library for manipulating documents based on data.
 - :package: [:gem:](https://github.com/pqina/react-filepond) [FilePond](https://github.com/pqina/filepond) A (21 KB gzipped) JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
 - :package: [:gem:](https://github.com/ControlGap/react-pell) [Pell](https://github.com/jaredreich/pell) The simplest and smallest (~1kB) WYSIWYG text editor for web, with no dependencies 
+- :package: [:gem:](https://docs.videojs.com/tutorial-react.html) [Video.js](https://github.com/videojs/video.js) Open source HTML5 & Flash video player
 
 #### React
 - :gem: [React Virtualized](https://github.com/bvaughn/react-virtualized) React components for efficiently rendering large lists and tabular data.
