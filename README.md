@@ -70,11 +70,14 @@
 - :package: [FilePond](https://github.com/pqina/filepond) A (21 KB gzipped) JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
 - :package: [Multi.js](https://github.com/Fabianlindfors/multi.js) A user-friendly replacement for select boxes with the multiple attribute. It has no dependencies, is mobile-friendly, and provides search functionality. multi.js is also easy to style with CSS and optionally supports jQuery.
 - :package: [Driver.js](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page. Only ~4kb, no external dependencies, supports all major browsers and highly customizable. Free version of Intro.js
+- :package: [Pell](https://github.com/jaredreich/pell) The simplest and smallest (~1kB) WYSIWYG text editor for web, with no dependencies 
 
 #### React
 - :package: [React Virtualized](https://github.com/bvaughn/react-virtualized) React components for efficiently rendering large lists and tabular data.
 - :package: [Material UI - React Components](https://github.com/mui-org/material-ui) React components that implement Google's Material Design.
 - :package: [React Morph](https://github.com/brunnolou/react-morph) Morphing UI transitions made simple.
+- :package: [Emoji Mart](https://github.com/missive/emoji-mart) React component to pick an emoji.
+
 
 ### App
 - :package: [Redux](https://github.com/reactjs/redux) Predictable state container for JavaScript apps.
