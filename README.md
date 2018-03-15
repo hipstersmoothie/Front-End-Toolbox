@@ -58,19 +58,19 @@
 ### UI
 #### Vanilla
 - :package: [basicScroll](https://github.com/electerious/basicScroll) Standalone parallax scrolling for mobile and desktop with CSS variables.
-- :package: [:gem:](https://github.com/tvkhoa/react-tippy) [Tippy.js](https://github.com/atomiks/tippyjs) Highly customizable vanilla JS tooltip/popover library.
-- :package: [:gem:](https://github.com/alex-shamshurin/sweetalert2-react) [SweetAlert2](https://sweetalert2.github.io/) A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - :package: [Fuse.js](http://fusejs.io/) Lightweight fuzzy-search library. Zero dependencies.
 - :package: [fuzzysearch](https://github.com/bevacqua/fuzzysearch) Tiny and blazing-fast fuzzy search in JavaScript. This program doesn't implement levenshtein distance, but rather a simplified version where there's no approximation. 
 - :package: [Frappe Charts](https://github.com/frappe/charts) GitHub-inspired modern, intuitive and responsive charts with zero dependencies.
 - :package: [Two.js](https://two.js.org/) A two-dimensional drawing api geared towards modern web browsers.
-- :package: [:gem:](https://github.com/lavrton/react-konva) [Konva.js](https://konvajs.github.io/) HTML5 2d canvas library for desktop and mobile applications.
-- :package: [:gem:](http://www.reactd3.org/) [D3.js](https://d3js.org/) A JavaScript library for manipulating documents based on data.
 - :package: [Electron](https://electronjs.org/) Build cross platform desktop apps with JavaScript, HTML, and CSS
 - :package: [Dashboard UIKit](https://dashboarduikit.com/) A modern, responsive and well-organized dashboard UI kit for digital product designers.
-- :package: [:gem:](https://github.com/pqina/react-filepond) [FilePond](https://github.com/pqina/filepond) A (21 KB gzipped) JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
 - :package: [Multi.js](https://github.com/Fabianlindfors/multi.js) A user-friendly replacement for select boxes with the multiple attribute. It has no dependencies, is mobile-friendly, and provides search functionality. multi.js is also easy to style with CSS and optionally supports jQuery.
 - :package: [Driver.js](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page. Only ~4kb, no external dependencies, supports all major browsers and highly customizable. Free version of Intro.js
+- :package: [:gem:](https://github.com/tvkhoa/react-tippy) [Tippy.js](https://github.com/atomiks/tippyjs) Highly customizable vanilla JS tooltip/popover library.
+- :package: [:gem:](https://github.com/alex-shamshurin/sweetalert2-react) [SweetAlert2](https://sweetalert2.github.io/) A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- :package: [:gem:](https://github.com/lavrton/react-konva) [Konva.js](https://konvajs.github.io/) HTML5 2d canvas library for desktop and mobile applications.
+- :package: [:gem:](http://www.reactd3.org/) [D3.js](https://d3js.org/) A JavaScript library for manipulating documents based on data.
+- :package: [:gem:](https://github.com/pqina/react-filepond) [FilePond](https://github.com/pqina/filepond) A (21 KB gzipped) JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
 - :package: [:gem:](https://github.com/ControlGap/react-pell) [Pell](https://github.com/jaredreich/pell) The simplest and smallest (~1kB) WYSIWYG text editor for web, with no dependencies 
 
 #### React
