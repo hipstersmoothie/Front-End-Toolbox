@@ -43,6 +43,7 @@
 
 ## Icons / Photos
 - :wrench: [Reshot](https://www.reshot.com/) Handpicked, non-stocky images. Yours to use as you wish.
+- :wrench: [Shotzr](https://www.shotzr.com/) Hyper-local stock photos, on-demand.
 - :wrench: [Morgue File](https://morguefile.com/) Free images for creatives, by creatives.
 - :wrench: [African Stock Photos](https://africanstockphoto.com/) Tell an Authentically African Visual Story
 - :wrench: [Fancy Crave](http://fancycrave.com/free-american-flag-photos/) Stunning, emotionally-driven photos fit for any project. (Free/Premium)
