@@ -64,7 +64,6 @@
 - :package: [Frappe Charts](https://github.com/frappe/charts) GitHub-inspired modern, intuitive and responsive charts with zero dependencies.
 - :package: [Two.js](https://two.js.org/) A two-dimensional drawing api geared towards modern web browsers.
 - :package: [Electron](https://electronjs.org/) Build cross platform desktop apps with JavaScript, HTML, and CSS
-- :package: [Dashboard UIKit](https://dashboarduikit.com/) A modern, responsive and well-organized dashboard UI kit for digital product designers.
 - :package: [Multi.js](https://github.com/Fabianlindfors/multi.js) A user-friendly replacement for select boxes with the multiple attribute. It has no dependencies, is mobile-friendly, and provides search functionality. multi.js is also easy to style with CSS and optionally supports jQuery.
 - :package: [Driver.js](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page. Only ~4kb, no external dependencies, supports all major browsers and highly customizable. Free version of Intro.js
 - :package: [:gem:](https://github.com/tvkhoa/react-tippy) [Tippy.js](https://github.com/atomiks/tippyjs) Highly customizable vanilla JS tooltip/popover library.
@@ -75,9 +74,13 @@
 - :package: [:gem:](https://github.com/ControlGap/react-pell) [Pell](https://github.com/jaredreich/pell) The simplest and smallest (~1kB) WYSIWYG text editor for web, with no dependencies 
 - :package: [:gem:](https://docs.videojs.com/tutorial-react.html) [Video.js](https://github.com/videojs/video.js) Open source HTML5 & Flash video player
 
+### UI Kit
+- :wrench: (Deck)[https://www.invisionapp.com/blog/card-ui-kit-deck/] A beautiful cross-platform UI kit for designing card-based interfaces and media websites.
+- :package: [Dashboard UIKit](https://dashboarduikit.com/) A modern, responsive and well-organized dashboard UI kit for digital product designers.
+- :gem: [Material UI - React Components](https://github.com/mui-org/material-ui) React components that implement Google's Material Design.
+
 #### React
 - :gem: [React Virtualized](https://github.com/bvaughn/react-virtualized) React components for efficiently rendering large lists and tabular data.
-- :gem: [Material UI - React Components](https://github.com/mui-org/material-ui) React components that implement Google's Material Design.
 - :gem: [React Morph](https://github.com/brunnolou/react-morph) Morphing UI transitions made simple.
 - :gem: [Emoji Mart](https://github.com/missive/emoji-mart) React component to pick an emoji.
 - :gem: [React Select](https://github.com/JedWatson/react-select) A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and ajax support.
