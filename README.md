@@ -99,6 +99,8 @@
 - :package: [Enzyme](https://github.com/airbnb/enzyme) Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 - :package: [Ava](https://github.com/avajs/ava) Futuristic JavaScript test runner. Ava runs tests concurrently, which is especially beneficial for IO heavy tests
 - :package; [Airtap](https://github.com/airtap/airtap) An easy way to test your JavaScript in browsers, using a TAP-producing harness like tap or tape. Start testing your code locally in seconds and seamlessly move to cloud based browsers powered by Sauce Labs for better coverage.
+- :gem: [Why-did-you-update](https://github.com/maicki/why-did-you-update) A function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur.
+- :gem: [React Opt](https://github.com/reactopt/reactopt) A CLI React performance optimization tool that identifies potential unnecessary re-rendering.
 
 ### Static Site
 - :package: [Gatsby.js](https://www.gatsbyjs.org/) Blazing-fast static site generator for React
