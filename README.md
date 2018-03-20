@@ -80,6 +80,7 @@
 - :gem: [Material UI - React Components](https://github.com/mui-org/material-ui) React components that implement Google's Material Design.
 
 #### React
+- :memo [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) How to reason about components building react components.
 - :gem: [React Virtualized](https://github.com/bvaughn/react-virtualized) React components for efficiently rendering large lists and tabular data.
 - :gem: [React Morph](https://github.com/brunnolou/react-morph) Morphing UI transitions made simple.
 - :gem: [Emoji Mart](https://github.com/missive/emoji-mart) React component to pick an emoji.
