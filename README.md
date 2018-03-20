@@ -75,7 +75,7 @@
 - :package: [:gem:](https://docs.videojs.com/tutorial-react.html) [Video.js](https://github.com/videojs/video.js) Open source HTML5 & Flash video player
 
 ### UI Kit
-- :wrench: (Deck)[https://www.invisionapp.com/blog/card-ui-kit-deck/] A beautiful cross-platform UI kit for designing card-based interfaces and media websites.
+- :package: [Deck](https://www.invisionapp.com/blog/card-ui-kit-deck/) A beautiful cross-platform UI kit for designing card-based interfaces and media websites.
 - :package: [Dashboard UIKit](https://dashboarduikit.com/) A modern, responsive and well-organized dashboard UI kit for digital product designers.
 - :gem: [Material UI - React Components](https://github.com/mui-org/material-ui) React components that implement Google's Material Design.
 
