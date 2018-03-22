@@ -31,6 +31,7 @@
 - :package: [CSS Modules](https://github.com/css-modules/css-modules) A CSS Module is a CSS file in which all class names and animation names are scoped locally by default. 
 - :package: [Stylelint](https://github.com/stylelint/stylelint) A mighty, modern CSS linter.
 - :package: [PostCSS](https://github.com/postcss/postcss) A tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
+- :package: [Animate.css](https://github.com/daneden/animate.css)  A cross-browser library of CSS animations. As easy to use as an easy thing. 
 
 ### Color
 - :wrench: [CSS Gradient Generator](https://cssgradient.io/) A happy little website and web tool that allows you to get creative with gradients. 
