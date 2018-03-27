@@ -53,6 +53,7 @@
 - :wrench: [Enpose](https://enpose.co/) Screenshots - Create your own dynamic images via a simple, URL-based API.
 - :wrench: [Screenshot Bin](https://www.screenshotbin.com/) Generate website screenshots and thumbnails at scale.
 - :wrench: [IconTellYou](https://icontellyou.com/) 2500 ++ Premium Icons
+- :wrench: [Cryptocurrency Icons](https://github.com/cjdowner/cryptocurrency-icons) A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
 
 ## Javascript
 - :memo: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) This is a series of books diving deep into the core mechanisms of the JavaScript language.
