@@ -125,6 +125,7 @@
 ### Performance
 - :wrench: [Flamescope](https://github.com/Netflix/flamescope) FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - :wrench: [Flamebearer](https://github.com/mapbox/flamebearer) Blazing fast flame graph tool for V8 and Node 🔥
+- :wrench: [Lag-Radar](https://github.com/mobz/lag-radar) Trace frame rate lag with a sexy performance radar
 
 ## Inspiration
 ### Devlopment
