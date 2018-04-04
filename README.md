@@ -40,7 +40,7 @@
 - :wrench: [Culrs](http://culrs.com/) A simple, smart approach to choose color palettes based on emotion.
 - :wrench: [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) Curated color palette inspiration.
 - :wrench: [Color Farm](http://color.farm/) Curated color palette inspiration with examples.
-
+- :wrench: [Palette](http://palette.site/) Get the essential colours from any website
 
 ## Icons / Photos
 - :wrench: [Reshot](https://www.reshot.com/) Handpicked, non-stocky images. Yours to use as you wish.
@@ -60,6 +60,8 @@
 
 ### UI
 #### Vanilla
+- :package: [Popmotion](https://github.com/Popmotion/popmotion) A functional, reactive animation library. 
+- :package: [Hotkeys](https://github.com/jaywcjlove/hotkeys) A robust Javascript library for capturing keyboard input. It has no dependencies.
 - :package: [basicScroll](https://github.com/electerious/basicScroll) Standalone parallax scrolling for mobile and desktop with CSS variables.
 - :package: [Fuse.js](http://fusejs.io/) Lightweight fuzzy-search library. Zero dependencies.
 - :package: [fuzzysearch](https://github.com/bevacqua/fuzzysearch) Tiny and blazing-fast fuzzy search in JavaScript. This program doesn't implement levenshtein distance, but rather a simplified version where there's no approximation. 
@@ -114,10 +116,15 @@
 - :package: [Slate](https://github.com/lord/slate) Slate helps you create beautiful, intelligent, responsive API documentation.
 
 ### Build
+- :package: [Consola](https://github.com/nuxt/consola) Elegant Console Logger
 - :package: [Webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand.
 - :package: [ESLint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - :package: [Babel](https://babeljs.io/) Use next generation JavaScript, today.
 - :package: [HappyPack](https://github.com/amireh/happypack) HappyPack makes initial webpack builds faster by transforming files in parallel.
+
+### Performance
+- :wrench: [Flamescope](https://github.com/Netflix/flamescope) FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
+- :wrench: [Flamebearer](https://github.com/mapbox/flamebearer) Blazing fast flame graph tool for V8 and Node 🔥
 
 ## Inspiration
 ### Devlopment
