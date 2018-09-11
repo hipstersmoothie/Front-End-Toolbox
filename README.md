@@ -91,8 +91,10 @@
 - :gem: [React Select](https://github.com/JedWatson/react-select) A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and ajax support.
 - :gem: [Formik](https://github.com/jaredpalmer/formik) Build forms in React, without the tears.
 - :gem: [Drag And Drop](https://github.com/atlassian/react-beautiful-dnd)  Beautiful, accessible drag and drop for lists with React.js
-= :gem: [React Document Title](https://github.com/gaearon/react-document-title) Declarative, nested, stateful, isomorphic document.title for React
-= :gem: [React Move](https://github.com/react-tools/react-move) Beautiful, data-driven animations for React 
+- :gem: [React Document Title](https://github.com/gaearon/react-document-title) Declarative, nested, stateful, isomorphic document.title for React
+- :gem: [React Move](https://github.com/react-tools/react-move) Beautiful, data-driven animations for React 
+- :gem: [pigeon-maps](https://github.com/mariusandra/pigeon-maps) ReactJS maps without external dependencies
+
 
 ### App
 - :package: [Redux](https://github.com/reactjs/redux) Predictable state container for JavaScript apps.
